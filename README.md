@@ -34,19 +34,29 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+CIRCUIT DIAGRAMS AND WAVEFORM:
+
+Half wave rectifier without filter:
+![alt text](<Screenshot 2026-03-16 115613.png>)
+![alt text](image.png)
 
 Half wave rectifier with filter:
+![alt text](image-4.png)
+![alt text](image-1.png)
+
+Bridge rectifier withOUT filter:
+![alt text](image-5.png)
+![alt text](image-2.png)
 
 Bridge rectifier with filter:
+![alt text](image-6.png)
+![alt text](image-3.png)
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+HALF WAVE RECTIFIER WITH AND WITHOUT FILTER:
+![alt text](image-7.png)
 
-WAVEFORM:
-
+FULL WAVE RECTIFIER WITH AND WITHOUT FILTER:
+![alt text](image-8.png)
 
 RESULT:
 
